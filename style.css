@@ -7,6 +7,9 @@ html {
 	padding: 30px;
 	margin: 15px 60 px 15 px 60 px;
 }
+.blocks a{
+	float:right;
+}
 a {
     text-decoration: none;
     color: black;
