@@ -2,6 +2,11 @@ body,
 html {
     margin: 0 auto;
 }
+.blocks {
+	border: 1px solid black;
+	padding: 30px;
+	margin: 15px 60 px 15 px 60 px;
+}
 a {
     text-decoration: none;
     color: black;
