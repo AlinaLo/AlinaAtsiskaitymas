@@ -7,6 +7,11 @@ html {
 	padding: 30px;
 	margin: 15px 60 px 15 px 60 px;
 }
+nav ul{
+	border: 1px solid black;
+	padding: 30px;
+	margin: 15px 60 px 15 px 60 px;
+}
 .blocks a{
 	float:right;
 }
@@ -33,6 +38,10 @@ nav .signin {
 nav ul {
     margin-left: 15px;
     
+}
+nav ul input{
+	float:right;
+    margin-right: 15px;
 }
 nav ul li {
 	padding: 0 0 0 15px;
